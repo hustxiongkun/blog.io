@@ -1,3 +1,9 @@
+2017-9-12 hustxiongkun
+
+参考自：如何搭建一个独立博客--简明 GitHub Pages与 jekyll 教程
+
+以下为原作者说明：
+
 ##说明
 
 2016-02-29  更新 _config.yml 可用
