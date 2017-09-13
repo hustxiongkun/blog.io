@@ -2,7 +2,7 @@
 
 参考自：[如何搭建一个独立博客--简明 GitHub Pages与 jekyll 教程](https://link.zhihu.com/?target=http%3A//www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)
 
-用于自己搭建博客：[hustxiongkun.com](hustxiongkun.com)
+用于自己搭建博客：[hustxiongkun.com](www.hustxiongkun.com)
 
 ##说明
 
