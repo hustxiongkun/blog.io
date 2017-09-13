@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 破茧成蝶
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "熊昆|好好学习，天天向上"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://www.hustxiongkun.com"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " hustxiongkun"
+  email: hustxiongkun@gmail.com
+  bio: "金鳞岂是池中物，一遇风云便化龙"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
