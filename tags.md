@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "哈哈，你找到了我的文章基因库"  
+description: "I know you know what I know"  
 header-img: "img/semantic.jpg"  
 ---
 
